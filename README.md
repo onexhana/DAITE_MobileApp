@@ -31,12 +31,14 @@
 1. **사용자 입력 기반 맞춤 추천**  
    사용자는 **데이트 상대**, **원하는 분위기**, **만나는 시간** 등 기본 정보를 입력합니다.
 
-   ![입력 화면](path_to_input_image.jpg)
+   ![입력 화면](<img width="244" alt="image" src="https://github.com/user-attachments/assets/966c7090-a726-4078-8026-237c6e041579" />
+)
 
 2. **AI 기반 데이트 코스 추천**  
    입력된 정보를 바탕으로 OpenAI API를 활용하여 **최적의 데이트 코스**를 추천합니다.
 
-   ![추천 결과 화면](path_to_result_image.jpg)
+   ![추천 결과 화면](<img width="290" alt="image" src="https://github.com/user-attachments/assets/7d908abb-a289-433b-8789-47f94ddda022" />
+)
 
 3. **사용자 경험을 고려한 UI/UX**  
    `TouchableOpacity`를 활용한 **모바일 친화적인 버튼 디자인**과 **반응형 레이아웃** 적용
