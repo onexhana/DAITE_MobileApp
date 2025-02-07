@@ -1,7 +1,8 @@
 # DAITE 💖  
 **DAITE**는 연인들을 위한 **맞춤형 데이트 코스 추천 앱**입니다. 간단한 정보를 입력하면 **AI가 최적의 데이트 코스**를 자동으로 추천해주어, 데이트 계획에 드는 고민과 시간을 줄여줍니다.
 
-![DAITE 메인 화면](path_to_main_image.jpg)
+![DAITE 메인 화면]([DAITE](https://github.com/user-attachments/assets/4a300ded-dc9c-4ebe-8d62-ba64762cdfd2)
+
 
 ---
 
