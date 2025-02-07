@@ -36,7 +36,7 @@
 2. **AI 기반 데이트 코스 추천**  
    입력된 정보를 바탕으로 OpenAI API를 활용하여 **최적의 데이트 코스**를 추천합니다.
 
-<img width="290" alt="image" src="https://github.com/user-attachments/assets/7d908abb-a289-433b-8789-47f94ddda022" />
+<img width="244" alt="image" src="https://github.com/user-attachments/assets/7d908abb-a289-433b-8789-47f94ddda022" />
 
 3. **사용자 경험을 고려한 UI/UX**  
    `TouchableOpacity`를 활용한 **모바일 친화적인 버튼 디자인**과 **반응형 레이아웃** 적용
