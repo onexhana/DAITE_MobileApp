@@ -1,4 +1,4 @@
-#데이트 코스를 추천해드립니다 DAITE
+# 데이트 코스를 추천해드립니다 DAITE
 
 ![슬라이드1](https://github.com/user-attachments/assets/2edceb9f-ed79-49ce-8382-8aa1e7cc5c98)
 ![슬라이드2](https://github.com/user-attachments/assets/4b78cd2c-59a4-4857-b4a1-e24626a469d4)
